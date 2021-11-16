@@ -1,0 +1,11 @@
+4)
+   
+    i)Brwser is one of the most complex application that we use it for 90% of my intraction with the computer
+   
+    ii)The combination of HTML & CSS is used to create the outer look of the browser
+
+   iii) HTML contain lot of tag which we use to create the browser
+
+   iv) CSS is used to change the colours,fonts,size which makes browser beautiful
+
+    v)Css is also used the switch the place of the text i.e we can place the text at exact position 

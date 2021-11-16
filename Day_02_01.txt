@@ -1,0 +1,15 @@
+List 5 difference between Browser JS(console) v Nodejs
+
+Js(Console)
+i)JavaScript-Sandbox
+ii)JavaScript-Run in Frontend
+iii)we need to help the browser to run
+iv)we need to connect to HTML file
+v)It basically used on client-side
+
+Node Js
+i)JavaScript--Stripped
+ii)JavaScript--Run in Back-End
+iii)Need not need help of browser
+iv)No HTML ,Single application
+v)It is mostly used on the server-side

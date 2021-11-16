@@ -1,0 +1,79 @@
+ 1)odd numbers
+var a = [];
+var odd = [];
+var t = 0;
+function arr(length) {
+  for (var i = 0; i < length; i++) {
+    a[i] = i;
+
+  }
+  for (var j = 0; j < length; j++) {
+    if (a[j] % 2 !== 0) {
+      odd[t] = a[j]
+      t++;
+    }
+  }
+  console.log(odd);
+}
+arr(7);
+
+----------------------------------------------------------------------------
+ii)sum of numbers in array
+var a = [];
+var odd = [];
+var sum = 0;
+function arr(length) {
+  for (var i = 0; i < length; i++) {
+    a[i] = i;
+
+  }
+  for (var j = 0; j < length; j++) {
+    sum = sum + a[j]
+  }
+  console.log(sum)
+}
+
+
+arr(7);
+----------------------------------------------------------------------------
+Prime
+var a = [];
+var prime = [];
+var t = 0;
+var p = 0;
+function arr(length) {
+  for (var i = 0; i < length; i++) {
+    a[i] = i;
+
+  }
+  for (var j = 0; j < length; j++) {
+    t = 0;
+    for (var z = 2; z < a[j]; z++) {
+      if (a[j] % z !== 0) {
+        t++;
+      }
+    }
+    if (t === 0) {
+      prime[p] = a[j]
+    }
+
+  }
+  console.log(prime)
+}
+
+
+arr(7);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
